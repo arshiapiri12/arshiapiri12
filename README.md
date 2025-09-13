@@ -50,4 +50,5 @@ I specialize in designing **scalable microservices**, building **clean and maint
 ## 🌐 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arshia-piri-17b576266/details/experience/)  
+- 🐙 [GitHub (Old Projects)](https://github.com/arshiapiri) 
 - 📧 arshia.piri1564@gmail.com  
