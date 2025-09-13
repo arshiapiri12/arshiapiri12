@@ -1,48 +1,73 @@
-# Hi there 👋, I'm Arshia Piri  
+# 👨‍💻 Arshia Piri  
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</div>  
 
-🚀 **Full-Stack Developer | Node.js | NestJS | TypeScript | React | Golang | Database Design & Optimization**  
+### 🚀 Software Engineer | Software Architecture Enthusiast | System Design Explorer  
 
-I am a passionate **Full-Stack Developer** with strong expertise in building scalable, high-performance applications.  
-My main stack includes **Node.js, NestJS, TypeScript, JavaScript, React, and Golang**, along with deep knowledge of **relational and non-relational databases**.  
+I am **Arshia Piri**, a passionate **Software Engineer** with strong expertise in **backend engineering, distributed systems, and software architecture**.  
+I specialize in designing **scalable microservices**, building **clean and maintainable architectures**, and applying **best practices (SOLID, Clean Architecture, DDD)** to deliver production-ready software.  
 
-I enjoy solving complex problems, designing clean architectures, and writing maintainable code following **SOLID principles**.  
-With hands-on experience in both **backend** and **frontend**, I can deliver complete end-to-end solutions — from designing APIs and microservices to building user-friendly interfaces.  
+💡 I combine my skills in **Node.js, NestJS, TypeScript, React, and Golang** with deep knowledge of **relational & non-relational databases** to design systems that are both efficient and resilient.  
 
-💡 Always eager to learn and take on new challenges.  
-
----
-
-## 🔧 Tech Stack  
-
-**Backend:**  
-- Node.js | NestJS | Golang | RESTful APIs | Microservices  
-
-**Frontend:**  
-- React | JavaScript | TypeScript | PWA Development  
-
-**Databases:**  
-- PostgreSQL | MySQL | MongoDB | Redis  
-
-**Other Tools & Concepts:**  
-- Git | Docker | Swagger | Clean Architecture | MVC | SOLID | Unit & Integration Testing  
+⚡ My focus is not only on writing code but also on **system design, scalability, and long-term maintainability**.  
 
 ---
 
-## 📈 GitHub Stats  
+## 🛠️ Technical Expertise  
 
-![Arshia's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshiapiri12&show_icons=true&theme=radical)  
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiapiri12&layout=compact&theme=radical)  
+**Core Competencies**  
+- Software Architecture | System Design | Clean Architecture  
+- Backend Engineering | API Design | Microservices  
+- Performance Optimization | Database Modeling | Scalability  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arshiapiri12&theme=radical)  
+**Languages & Frameworks**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+
+**Databases & Storage**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+
+**Other Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
+
+</div>  
+
+---
+
+## 📊 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arshiapiri12&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiapiri12&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiapiri12&theme=tokyonight&hide_border=true" height="150" />
+</p>  
 
 ---
 
 ## 🌐 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/arshia-piri-17b576266/details/experience/)  
-- 📧 arshia.piri1564@gmail.com  
+<div align="center">
+
+📧 **Email:** [arshia.piri1564@gmail.com](mailto:arshia.piri1564@gmail.com)  
+💼 **LinkedIn:** [Arshia Piri](https://www.linkedin.com/in/arshia-piri-17b576266/details/experience/)  
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+
+</div>
