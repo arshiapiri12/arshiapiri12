@@ -47,21 +47,6 @@ Software Architecture • System Design • Clean Architecture • API Design �
 
 </div>  
 
----
-
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshiapiri12&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiapiri12&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiapiri12&theme=tokyonight&hide_border=true" height="160" />
-</p>  
-
----
-
 ## 🌐 Connect with Me  
 
 <div align="center">
