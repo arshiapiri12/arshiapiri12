@@ -1,17 +1,20 @@
 # 👨‍💻 Arshia Piri  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>  
 
-### 🚀 Software Engineer | Software Architecture Enthusiast | System Design Explorer  
+<h3 align="center">🚀 Software Engineer | Software Architecture Enthusiast | System Design Explorer</h3>  
 
-I am **Arshia Piri**, a passionate **Software Engineer** with strong expertise in **backend engineering, distributed systems, and software architecture**.  
-I specialize in designing **scalable microservices**, building **clean and maintainable architectures**, and applying **best practices (SOLID, Clean Architecture, DDD)** to deliver production-ready software.  
+<p align="center">
+I am <b>Arshia Piri</b>, a passionate <b>Software Engineer</b> with strong expertise in <b>backend engineering, distributed systems, and software architecture</b>.  
+I specialize in designing <b>scalable microservices</b>, building <b>clean and maintainable architectures</b>, and applying best practices like <b>SOLID, Clean Architecture, and DDD</b>.  
+</p>
 
-💡 I combine my skills in **Node.js, NestJS, TypeScript, React, and Golang** with deep knowledge of **relational & non-relational databases** to design systems that are both efficient and resilient.  
-
-⚡ My focus is not only on writing code but also on **system design, scalability, and long-term maintainability**.  
+<p align="center">
+💡 Skilled in <b>Node.js, NestJS, TypeScript, React, and Golang</b> with deep knowledge of both relational & non-relational databases.  
+⚡ Focused on <b>system design, scalability, and long-term maintainability</b>.  
+</p>  
 
 ---
 
@@ -20,9 +23,7 @@ I specialize in designing **scalable microservices**, building **clean and maint
 <div align="center">
 
 **Core Competencies**  
-- Software Architecture | System Design | Clean Architecture  
-- Backend Engineering | API Design | Microservices  
-- Performance Optimization | Database Modeling | Scalability  
+Software Architecture • System Design • Clean Architecture • API Design • Microservices • Database Modeling  
 
 **Languages & Frameworks**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
@@ -38,7 +39,7 @@ I specialize in designing **scalable microservices**, building **clean and maint
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
 
-**Other Tools**  
+**Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -51,12 +52,12 @@ I specialize in designing **scalable microservices**, building **clean and maint
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshiapiri12&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiapiri12&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arshiapiri12&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiapiri12&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiapiri12&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiapiri12&theme=tokyonight&hide_border=true" height="160" />
 </p>  
 
 ---
@@ -68,6 +69,8 @@ I specialize in designing **scalable microservices**, building **clean and maint
 📧 **Email:** [arshia.piri1564@gmail.com](mailto:arshia.piri1564@gmail.com)  
 💼 **LinkedIn:** [Arshia Piri](https://www.linkedin.com/in/arshia-piri-17b576266/details/experience/)  
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+</div>  
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
