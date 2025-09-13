@@ -1,5 +1,9 @@
 # Hi there 👋, I'm Arshia Piri  
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</div>
+
 🚀 **Full-Stack Developer | Node.js | NestJS | TypeScript | React | Golang | Database Design & Optimization**  
 
 I am a passionate **Full-Stack Developer** with strong expertise in building scalable, high-performance applications.  
@@ -34,9 +38,11 @@ With hands-on experience in both **backend** and **frontend**, I can deliver com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiapiri12&layout=compact&theme=radical)  
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arshiapiri12&theme=radical)  
+
 ---
 
 ## 🌐 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📧 arshia.piri8585@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arshia-piri-17b576266/details/experience/)  
+- 📧 arshia.piri1564@gmail.com  
